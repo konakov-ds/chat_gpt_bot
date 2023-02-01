@@ -1,2 +1,3 @@
 openai==0.26.3
 aiogram==2.24
+pyyaml==6.0
