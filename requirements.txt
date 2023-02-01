@@ -1,0 +1,2 @@
+openai==0.26.3
+aiogram==2.24
